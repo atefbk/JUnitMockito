@@ -29,9 +29,7 @@ public class CalculatorTest {
 //		service = Mockito.mock(CalculatorService.class);
 		
 		c = new Calculator(service);
-		
-		c = null;
-		
+				
 	}
 	
 	@Test
