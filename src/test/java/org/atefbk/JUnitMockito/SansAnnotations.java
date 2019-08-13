@@ -15,7 +15,7 @@ import org.mockito.junit.MockitoRule;
 
 public class SansAnnotations {
 	
-	Calculator c = null;
+	Calculator c;
 	
 	
 	CalculatorService service;
