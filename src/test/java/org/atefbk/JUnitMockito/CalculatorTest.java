@@ -28,6 +28,7 @@ public class CalculatorTest {
 		 */
 //		service = Mockito.mock(CalculatorService.class);
 		c = null;
+		c = null;
 		c = new Calculator(service);
 		c = null;
 	}
