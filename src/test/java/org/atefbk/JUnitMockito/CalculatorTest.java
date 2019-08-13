@@ -27,7 +27,7 @@ public class CalculatorTest {
 		 * Première façon sans les annotations @Mock & @Rule
 		 */
 //		service = Mockito.mock(CalculatorService.class);
-		c = null;
+		
 		c = new Calculator(service);
 		
 	}
